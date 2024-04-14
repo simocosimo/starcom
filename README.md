@@ -1,7 +1,7 @@
 # starcom
 Starcom is a satellite control and monitoring software.
-By connecting to the desired target, Starcom will give full exposure over incoming telemetries while giving the abality to send telecommands to the target.
-Its ability to extract and analyze useful data will give to the operator full control on exchanged data.
+By connecting to the desired target, Starcom will give full exposure over incoming telemetries while giving the ability to send telecommands to the target.
+Its ability to extract and analyze useful data will give to the operator full control over exchanged data.
 Starcom is higly customizable and scriptable, giving the possibility to automate routines useful for data collecting or spacecraft control.
 Its development is thought with the space field in mind, and it offers the possibility to perform framing and deframing of the most commonly used CCSDS and ECSS standards. If you develop your own frame format, it is easy to extende Starcom to support it!
 
